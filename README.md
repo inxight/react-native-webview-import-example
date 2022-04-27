@@ -7,3 +7,12 @@
 2. onMessage 로 전달받은 키 값으로 navigation 처리를 할지 말지 결정하게 됩니다.
 3. navigation 이동후 WebView에 적용되어있는 BackHandler는 동작하면 안되게끔 적용해두었습니다.
 4. 추가적인 결제 완료 후 로직은 개인적으로 추가하셔서 사용하시면 됩니다.
+
+<center>
+
+|                               `Ios`                                |                               `Android`                                |
+| :----------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|                             `아임포트`                             |                               `아임포트`                               |
+| <img src="./src/assets/images/ios.gif"  width="200" height="400"/> | <img src="./src/assets/images/android.gif"  width="200" height="400"/> |
+
+</center>
